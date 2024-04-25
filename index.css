@@ -1,0 +1,23 @@
+.card{
+    background-color:rgba(169, 169, 169, 0.329);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card{
+    img{
+        padding: 10px;
+    }
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: column;
+    .button2{
+        margin-top: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 4px;
+    }
+}
